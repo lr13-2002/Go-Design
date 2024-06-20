@@ -1,2 +1,2 @@
-# Go_Design
+# Go-Design
 GO设计模式
